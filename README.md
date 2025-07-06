@@ -1,3 +1,20 @@
+Hi, I'm Ravishankar Pathak! 👋
+
+I'm a passionate Python developer with a deep interest in AI, automation, and data analysis. Currently, I’m working as a Data Analyst at Eigen Technologies Pvt, Ltd. (SENSEnuts), where I design and build intelligent systems to tackle real-world challenges. I love exploring new technologies and creating solutions that make life easier—whether it’s offline AI tools or business automation systems!
+
+About Me
+
+🎓 Education: B.Tech in Computer Science and Technology from Gandhi Institute For Technology
+
+💼 Role: Data Analyst at Eigen Technologies Pvt, Ltd. (SENSEnuts)
+
+🌱 Learning: Continuously diving into AI, machine learning, and prompt engineering
+
+📍 Location: Samastipur, Bihar, India
+
+📫 Email: knikt.4811@gmail.com | LinkedIn: Ravishankar Pathak
+
+
 ## 🛠️ Technical Skills
 
 **Programming Languages**  
