@@ -12,7 +12,7 @@ About Me
 
 📍 Location: Samastipur, Bihar, India
 
-📫 Email: knikt.4811@gmail.com | LinkedIn: Ravishankar Pathak
+📫 Email: knikt.4811@gmail.com | LinkedIn: https://www.linkedin.com/in/ravishankar-pathak-69a379234/
 
 
 ## 🛠️ Technical Skills
