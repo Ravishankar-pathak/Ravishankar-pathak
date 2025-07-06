@@ -70,11 +70,11 @@ me = AI_Developer()
 
 | Project | Description | Technologies | Highlights |
 |---------|-------------|--------------|------------|
-| [🤖 Smart Tally AI Assistant](project-link-1) | Connects Tally with PostgreSQL for offline AI querying | Python, Flask, Ollama, PostgreSQL | ⚡ Incremental data fetch, 💬 Natural language queries |
-| [💬 AI CHAT ASSISTANT (Offline)](project-link-2) | Fully offline AI assistant with dynamic model switching | Python, Tkinter, Ollama, Flask | 🔄 Model switching, 🧠 Smart prompt routing |
-| [📈 Stock Prediction Web App](project-link-3) | Real-time stock analysis with ML price prediction | Flask, yfinance, Plotly, scikit-learn | 📊 Interactive charts, 🤖 Multiple ML models |
-| [📑 Invoice Management System](project-link-4) | PDF invoice processing with AI integration | Django, PostgreSQL, Mistral AI | 🔍 PDF-to-JSON conversion, 🤖 Local AI deployment |
-| [🌅 Sunrise/Sunset Calculator](project-link-5) | Astronomical time calculations using GPS | C, Astronomical Algorithms | 🌐 Julian Day algorithms, 📅 UTC offset handling |
+| [🤖 Smart Tally AI Assistant]([project-link-1](https://github.com/Ravishankar-pathak/Smart-Tally-AI-Assistant)) | Connects Tally with PostgreSQL for offline AI querying | Python, Flask, Ollama, PostgreSQL | ⚡ Incremental data fetch, 💬 Natural language queries |
+| [💬 AI CHAT ASSISTANT (Offline)]([project-link-2](https://github.com/Ravishankar-pathak/AI-CHAT-ASSISTANT-OFFLINE-)) | Fully offline AI assistant with dynamic model switching | Python, Tkinter, Ollama, Flask | 🔄 Model switching, 🧠 Smart prompt routing |
+| [📈 Stock Prediction Web App]([project-link-3](https://github.com/Ravishankar-pathak/Stock-Price-Prediction-and-Analysis)) | Real-time stock analysis with ML price prediction | Flask, yfinance, Plotly, scikit-learn | 📊 Interactive charts, 🤖 Multiple ML models |
+| [📑 Invoice Management System]([project-link-4](https://github.com/Ravishankar-pathak/Invoice-Management-System)) | PDF invoice processing with AI integration | Django, PostgreSQL, Mistral AI | 🔍 PDF-to-JSON conversion, 🤖 Local AI deployment |
+| [🌅 Sunrise/Sunset Calculator]([project-link-5](https://github.com/Ravishankar-pathak/SUNRISE-SET)) | Astronomical time calculations using GPS | C, Astronomical Algorithms | 🌐 Julian Day algorithms, 📅 UTC offset handling |
 
 ## 💼 Professional Experience
 
@@ -112,7 +112,7 @@ me = AI_Developer()
 </p>
 
 ## ⚡ Fun Fact
-> "I've developed an AI assistant that calculates sunrise times using Julian Day algorithms while processing invoices offline!"
+> "I've developed an AI assistant that processing invoices offline!"
 
 ## 📬 Let's Connect!
 <p align="center">
