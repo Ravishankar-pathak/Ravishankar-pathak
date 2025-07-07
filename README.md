@@ -85,10 +85,10 @@ About Me
 ## 📬 Let's Connect!
 <p align="center">
   <a href="mailto:knikt.4811@gmail.com">
-    <img src="https://img.icons8.com/color/96/000000/gmail.png" alt="Email" width="50">
+    <img src="https://img.icons8.com/color/96/000000/gmail.png" alt="Email" width="25">
   </a>
-  <a href="https://www.linkedin.com/in/ravishankar-pathak">
-    <img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" width="50">
+  <a href="https://www.linkedin.com/in/ravishankar-pathak-69a379234/">
+    <img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" width="25">
   </a>
   <a href="https://github.com/Ravishankar-pathak">
     <img src="https://img.icons8.com/ios-filled/100/000000/github.png" alt="GitHub" width="50">
